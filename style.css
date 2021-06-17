@@ -1,4 +1,20 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:rgb(0, 0, 0);}
+#tab{background-color:#ffffff;
+     width:65%;
+     height:500px;
+     margin:auto;
+     padding:10%; 
+     border-radius:20px ;
+     font-family:arial,serif,Georgia;
+     font-weight:bold;
+     box-align:center; 
+    }
+table{margin:auto;font-family:inherit;
+    font-weight:inherit;}
+td{text-align:justify;
+    padding:10px;font-family:inherit;
+    font-weight:inherit;}
+#h1{color:grey; text-align:center; font-family:inherit;font-weight:inherit;}
+#percent{display:inline;}
+button{font-family:inherit;font-weight:inherit;margin:15px;}
+p{font-weight:inherit; padding-top:20px;font-family:inherit;}
