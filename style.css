@@ -16,5 +16,5 @@ td{text-align:justify;
     font-weight:inherit;}
 #h1{color:grey; text-align:center; font-family:inherit;font-weight:inherit;}
 #percent{display:inline;}
-button{font-family:inherit;font-weight:inherit;margin:15px;}
-p{font-weight:inherit; padding-top:20px;font-family:inherit;}
+button{font-family:inherit;font-weight:inherit;margin-left:auto;}
+p{margin-left:auto;font-weight:inherit; padding-top:20px;font-family:inherit;}
